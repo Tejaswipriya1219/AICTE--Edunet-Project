@@ -58,12 +58,5 @@ This project provides a **secure and user-friendly** way to **encrypt and decryp
 ✅ Development of a **mobile and web application**  
 ✅ AI-based **image security and tampering detection**  
 
-## 📜 License
-This project is **open-source** and available under the [MIT License](LICENSE).
 
-## 🔗 GitHub Repository
-👉 (https://github.com/BibiAmina7/AICTE--Encryption-Decryption-project)
-
-## 🙌 Contributing
-Feel free to fork this repository, raise issues, or contribute enhancements! 😊
 
